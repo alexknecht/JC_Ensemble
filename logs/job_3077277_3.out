@@ -1,0 +1,3 @@
+Loading modules...
+Job ID: 3077282, Array Task ID: 3
+Error: Could not read line 3 (or line 4 if header exists) from hypercube.csv

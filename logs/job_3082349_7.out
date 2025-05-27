@@ -1,0 +1,49 @@
+Loading modules...
+Job ID: 3082356, Array Task ID: 7
+Parameters for Task 7:
+A=1.3e+08, B=1.55e+08, N=0.5195, C=0.003511, M=1
+Parameters for Task 7:
+C=0.003511
+Creating working directory: run_7
+Substituting parameters into job.inp...
+Current directory: /scratch/knecht/JC_Ensemble/run_7
+Starting Abaqus simulation: job
+Analysis initiated from SIMULIA established products
+Abaqus JOB job
+Abaqus 2023
+Begin Analysis Input File Processor
+Mon 19 May 2025 04:20:20 PM EDT
+Run pre
+Mon 19 May 2025 04:20:22 PM EDT
+End Analysis Input File Processor
+Begin Abaqus/Standard Analysis
+Mon 19 May 2025 04:20:22 PM EDT
+Run standard
+Mon 19 May 2025 04:20:33 PM EDT
+End Abaqus/Standard Analysis
+Begin SIM Wrap-up
+Mon 19 May 2025 04:20:34 PM EDT
+Run SMASimUtility
+Mon 19 May 2025 04:20:34 PM EDT
+End SIM Wrap-up
+Abaqus JOB job COMPLETED
+Running Python script: /scratch/knecht/Johnson_Cook/extract_curves1.py on job.odb
+Processing step: Ramp
+ Frame 1/16
+ Frame 2/16
+ Frame 3/16
+ Frame 4/16
+ Frame 5/16
+ Frame 6/16
+ Frame 7/16
+ Frame 8/16
+ Frame 9/16
+ Frame 10/16
+ Frame 11/16
+ Frame 12/16
+ Frame 13/16
+ Frame 14/16
+ Frame 15/16
+ Frame 16/16
+Error: Python script execution failed.
+Task 7 completed.

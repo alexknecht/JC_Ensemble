@@ -1,0 +1,68 @@
+Loading modules...
+Job ID: 3091124, Array Task ID: 14
+Parameters for Task 14:
+A=1.3e+08, B=4.98e+08, N=0.5195, C=0.0001, M=2.5
+Parameters for Task 14:
+C=0.0001
+Creating working directory: run_14
+Substituting parameters into job.inp...
+Current directory: /scratch/knecht/JC_Ensemble/run_14
+Starting Abaqus simulation: job
+Analysis initiated from SIMULIA established products
+Abaqus JOB job
+Abaqus 2023
+Begin Analysis Input File Processor
+Tue 20 May 2025 11:18:20 AM EDT
+Run pre
+Tue 20 May 2025 11:18:23 AM EDT
+End Analysis Input File Processor
+Begin Abaqus/Standard Analysis
+Tue 20 May 2025 11:18:23 AM EDT
+Run standard
+Tue 20 May 2025 11:19:04 AM EDT
+End Abaqus/Standard Analysis
+Begin SIM Wrap-up
+Tue 20 May 2025 11:19:04 AM EDT
+Run SMASimUtility
+Tue 20 May 2025 11:19:04 AM EDT
+End SIM Wrap-up
+Abaqus JOB job COMPLETED
+Running Python script: /scratch/knecht/Johnson_Cook/extract_curves1.py on job.odb
+Processing step: Ramp
+ Frame 1/34
+ Frame 2/34
+ Frame 3/34
+ Frame 4/34
+ Frame 5/34
+ Frame 6/34
+ Frame 7/34
+ Frame 8/34
+ Frame 9/34
+ Frame 10/34
+ Frame 11/34
+ Frame 12/34
+ Frame 13/34
+ Frame 14/34
+ Frame 15/34
+ Frame 16/34
+ Frame 17/34
+ Frame 18/34
+ Frame 19/34
+ Frame 20/34
+ Frame 21/34
+ Frame 22/34
+ Frame 23/34
+ Frame 24/34
+ Frame 25/34
+ Frame 26/34
+ Frame 27/34
+ Frame 28/34
+ Frame 29/34
+ Frame 30/34
+ Frame 31/34
+ Frame 32/34
+ Frame 33/34
+ Frame 34/34
+Wrote JSON to curve.json
+Python script executed successfully. Output: curve.json
+Task 14 completed.

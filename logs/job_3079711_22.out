@@ -1,0 +1,30 @@
+Loading modules...
+Job ID: 3079734, Array Task ID: 22
+Parameters for Task 22:
+A=3.6e+08, B=1.55e+08, N=0.5195, C=0.0001, M=2.5
+Parameters for Task 22:
+C=0.0001
+Creating working directory: run_22
+Substituting parameters into job.inp...
+Current directory: /scratch/knecht/JC_Ensemble/run_22
+Starting Abaqus simulation: job
+Analysis initiated from SIMULIA established products
+Abaqus JOB job
+Abaqus 2023
+Begin Analysis Input File Processor
+Mon 19 May 2025 12:35:11 PM EDT
+Run pre
+Mon 19 May 2025 12:35:13 PM EDT
+Abaqus Error: Analysis Input File Processor exited with an error - Please see the 
+job.dat file for possible error messages if the file exists.
+Begin SIM Wrap-up
+Mon 19 May 2025 12:35:14 PM EDT
+Run SMASimUtility
+Mon 19 May 2025 12:35:14 PM EDT
+End SIM Wrap-up
+Abaqus/Analysis exited with errors
+Running Python script: /scratch/knecht/Johnson_Cook/extract_curves1.py on job.odb
+Processing step: Hold
+Wrote JSON to curve.json
+Python script executed successfully. Output: curve.json
+Task 22 completed.

@@ -1,0 +1,30 @@
+Loading modules...
+Job ID: 3078099, Array Task ID: 2
+Parameters for Task 2:
+A=1.3e+08, B=1.55e+08, N=0.1, C=0.0001, M=2.5
+Parameters for Task 2:
+C=0.0001
+Creating working directory: run_2
+Substituting parameters into job.inp...
+Current directory: /scratch/knecht/JC_Ensemble/run_2
+Starting Abaqus simulation: job
+Analysis initiated from SIMULIA established products
+Abaqus JOB job
+Abaqus 2023
+Begin Analysis Input File Processor
+Mon 19 May 2025 12:09:00 PM EDT
+Run pre
+Mon 19 May 2025 12:09:01 PM EDT
+Abaqus Error: Analysis Input File Processor exited with an error - Please see the 
+job.dat file for possible error messages if the file exists.
+Begin SIM Wrap-up
+Mon 19 May 2025 12:09:02 PM EDT
+Run SMASimUtility
+Mon 19 May 2025 12:09:02 PM EDT
+End SIM Wrap-up
+Abaqus/Analysis exited with errors
+Error: Abaqus ODB file (job.odb) not found. Abaqus simulation may have failed.
+Running Python script: /scratch/knecht/Johnson_Cook/extract_curves1.py on job.odb
+Error opening ODB 'job.odb': Cannot open file /scratch/knecht/JC_Ensemble/run_2/job.odb. *** ERROR: No such file: /scratch/knecht/JC_Ensemble/run_2/job.odb.
+Error: Python script execution failed.
+Task 2 completed.

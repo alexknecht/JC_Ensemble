@@ -1,0 +1,16 @@
+Loading modules...
+Job ID: 3079884, Array Task ID: 26
+Parameters for Task 26:
+A=3.6e+08, B=4.98e+08, N=0.1, C=0.0001, M=2.5
+Parameters for Task 26:
+C=0.0001
+Creating working directory: run_26
+Substituting parameters into job.inp...
+Current directory: /scratch/knecht/JC_Ensemble/run_26
+Starting Abaqus simulation: job
+Abaqus Error: Detected lock file job.lck. Please confirm that no other applications are attempting to write to the output database associated with this job before removing the lock file and resubmitting.
+Abaqus/Analysis exited with error(s).
+Running Python script: /scratch/knecht/Johnson_Cook/extract_curves1.py on job.odb
+Error opening ODB 'job.odb': Cannot open file /scratch/knecht/JC_Ensemble/run_26/job.odb. ***ERROR: The Abaqus database file is corrupt. If this file was transferred from another machine using FTP or equivalent, ensure that the file was copied using the binary mode instead of ASCII mode.
+Error: Python script execution failed.
+Task 26 completed.

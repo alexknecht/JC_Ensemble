@@ -1,0 +1,108 @@
+Loading modules...
+Job ID: 3085092, Array Task ID: 26
+Parameters for Task 26:
+A=3.6e+08, B=4.98e+08, N=0.1, C=0.0001, M=2.5
+Parameters for Task 26:
+C=0.0001
+Creating working directory: run_26
+Substituting parameters into job.inp...
+Current directory: /scratch/knecht/JC_Ensemble/run_26
+Starting Abaqus simulation: job
+Analysis initiated from SIMULIA established products
+Abaqus JOB job
+Abaqus 2023
+Begin Analysis Input File Processor
+Tue 20 May 2025 08:54:16 AM EDT
+Run pre
+Tue 20 May 2025 08:54:19 AM EDT
+End Analysis Input File Processor
+Begin Abaqus/Standard Analysis
+Tue 20 May 2025 08:54:19 AM EDT
+Run standard
+Tue 20 May 2025 08:55:59 AM EDT
+Abaqus Error: Abaqus/Standard Analysis exited with an error - Please see the 
+message file for possible error messages if the file exists.
+Begin SIM Wrap-up
+Tue 20 May 2025 08:56:00 AM EDT
+Run SMASimUtility
+Tue 20 May 2025 08:56:00 AM EDT
+End SIM Wrap-up
+Abaqus/Analysis exited with errors
+Running Python script: /scratch/knecht/Johnson_Cook/extract_curves1.py on job.odb
+Processing step: Ramp
+ Frame 1/73
+ Frame 2/73
+ Frame 3/73
+ Frame 4/73
+ Frame 5/73
+ Frame 6/73
+ Frame 7/73
+ Frame 8/73
+ Frame 9/73
+ Frame 10/73
+ Frame 11/73
+ Frame 12/73
+ Frame 13/73
+ Frame 14/73
+ Frame 15/73
+ Frame 16/73
+ Frame 17/73
+ Frame 18/73
+ Frame 19/73
+ Frame 20/73
+ Frame 21/73
+ Frame 22/73
+ Frame 23/73
+ Frame 24/73
+ Frame 25/73
+ Frame 26/73
+ Frame 27/73
+ Frame 28/73
+ Frame 29/73
+ Frame 30/73
+ Frame 31/73
+ Frame 32/73
+ Frame 33/73
+ Frame 34/73
+ Frame 35/73
+ Frame 36/73
+ Frame 37/73
+ Frame 38/73
+ Frame 39/73
+ Frame 40/73
+ Frame 41/73
+ Frame 42/73
+ Frame 43/73
+ Frame 44/73
+ Frame 45/73
+ Frame 46/73
+ Frame 47/73
+ Frame 48/73
+ Frame 49/73
+ Frame 50/73
+ Frame 51/73
+ Frame 52/73
+ Frame 53/73
+ Frame 54/73
+ Frame 55/73
+ Frame 56/73
+ Frame 57/73
+ Frame 58/73
+ Frame 59/73
+ Frame 60/73
+ Frame 61/73
+ Frame 62/73
+ Frame 63/73
+ Frame 64/73
+ Frame 65/73
+ Frame 66/73
+ Frame 67/73
+ Frame 68/73
+ Frame 69/73
+ Frame 70/73
+ Frame 71/73
+ Frame 72/73
+ Frame 73/73
+Wrote JSON to curve.json
+Python script executed successfully. Output: curve.json
+Task 26 completed.

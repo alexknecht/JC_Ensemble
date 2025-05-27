@@ -1,0 +1,272 @@
+Loading modules...
+Job ID: 3106050, Array Task ID: 27
+Parameters for Task 27:
+A=3.6e+08, B=4.98e+08, N=0.1, C=0.003511, M=1
+Parameters for Task 27:
+C=0.003511
+Creating working directory: run_27
+Substituting parameters into job.inp...
+Current directory: /scratch/knecht/JC_Ensemble/run_27
+Starting Abaqus simulation: job
+Analysis initiated from SIMULIA established products
+Abaqus JOB job
+Abaqus 2023
+Begin Analysis Input File Processor
+Tue 20 May 2025 01:32:40 PM EDT
+Run pre
+Tue 20 May 2025 01:32:43 PM EDT
+End Analysis Input File Processor
+Begin Abaqus/Standard Analysis
+Tue 20 May 2025 01:32:43 PM EDT
+Run standard
+Tue 20 May 2025 01:35:25 PM EDT
+End Abaqus/Standard Analysis
+Begin SIM Wrap-up
+Tue 20 May 2025 01:35:25 PM EDT
+Run SMASimUtility
+Tue 20 May 2025 01:35:25 PM EDT
+End SIM Wrap-up
+Abaqus JOB job COMPLETED
+Running Python script: /scratch/knecht/Johnson_Cook/extract_curves1.py on job.odb
+Processing step: Ramp
+ Frame 1/238
+ Frame 2/238
+ Frame 3/238
+ Frame 4/238
+ Frame 5/238
+ Frame 6/238
+ Frame 7/238
+ Frame 8/238
+ Frame 9/238
+ Frame 10/238
+ Frame 11/238
+ Frame 12/238
+ Frame 13/238
+ Frame 14/238
+ Frame 15/238
+ Frame 16/238
+ Frame 17/238
+ Frame 18/238
+ Frame 19/238
+ Frame 20/238
+ Frame 21/238
+ Frame 22/238
+ Frame 23/238
+ Frame 24/238
+ Frame 25/238
+ Frame 26/238
+ Frame 27/238
+ Frame 28/238
+ Frame 29/238
+ Frame 30/238
+ Frame 31/238
+ Frame 32/238
+ Frame 33/238
+ Frame 34/238
+ Frame 35/238
+ Frame 36/238
+ Frame 37/238
+ Frame 38/238
+ Frame 39/238
+ Frame 40/238
+ Frame 41/238
+ Frame 42/238
+ Frame 43/238
+ Frame 44/238
+ Frame 45/238
+ Frame 46/238
+ Frame 47/238
+ Frame 48/238
+ Frame 49/238
+ Frame 50/238
+ Frame 51/238
+ Frame 52/238
+ Frame 53/238
+ Frame 54/238
+ Frame 55/238
+ Frame 56/238
+ Frame 57/238
+ Frame 58/238
+ Frame 59/238
+ Frame 60/238
+ Frame 61/238
+ Frame 62/238
+ Frame 63/238
+ Frame 64/238
+ Frame 65/238
+ Frame 66/238
+ Frame 67/238
+ Frame 68/238
+ Frame 69/238
+ Frame 70/238
+ Frame 71/238
+ Frame 72/238
+ Frame 73/238
+ Frame 74/238
+ Frame 75/238
+ Frame 76/238
+ Frame 77/238
+ Frame 78/238
+ Frame 79/238
+ Frame 80/238
+ Frame 81/238
+ Frame 82/238
+ Frame 83/238
+ Frame 84/238
+ Frame 85/238
+ Frame 86/238
+ Frame 87/238
+ Frame 88/238
+ Frame 89/238
+ Frame 90/238
+ Frame 91/238
+ Frame 92/238
+ Frame 93/238
+ Frame 94/238
+ Frame 95/238
+ Frame 96/238
+ Frame 97/238
+ Frame 98/238
+ Frame 99/238
+ Frame 100/238
+ Frame 101/238
+ Frame 102/238
+ Frame 103/238
+ Frame 104/238
+ Frame 105/238
+ Frame 106/238
+ Frame 107/238
+ Frame 108/238
+ Frame 109/238
+ Frame 110/238
+ Frame 111/238
+ Frame 112/238
+ Frame 113/238
+ Frame 114/238
+ Frame 115/238
+ Frame 116/238
+ Frame 117/238
+ Frame 118/238
+ Frame 119/238
+ Frame 120/238
+ Frame 121/238
+ Frame 122/238
+ Frame 123/238
+ Frame 124/238
+ Frame 125/238
+ Frame 126/238
+ Frame 127/238
+ Frame 128/238
+ Frame 129/238
+ Frame 130/238
+ Frame 131/238
+ Frame 132/238
+ Frame 133/238
+ Frame 134/238
+ Frame 135/238
+ Frame 136/238
+ Frame 137/238
+ Frame 138/238
+ Frame 139/238
+ Frame 140/238
+ Frame 141/238
+ Frame 142/238
+ Frame 143/238
+ Frame 144/238
+ Frame 145/238
+ Frame 146/238
+ Frame 147/238
+ Frame 148/238
+ Frame 149/238
+ Frame 150/238
+ Frame 151/238
+ Frame 152/238
+ Frame 153/238
+ Frame 154/238
+ Frame 155/238
+ Frame 156/238
+ Frame 157/238
+ Frame 158/238
+ Frame 159/238
+ Frame 160/238
+ Frame 161/238
+ Frame 162/238
+ Frame 163/238
+ Frame 164/238
+ Frame 165/238
+ Frame 166/238
+ Frame 167/238
+ Frame 168/238
+ Frame 169/238
+ Frame 170/238
+ Frame 171/238
+ Frame 172/238
+ Frame 173/238
+ Frame 174/238
+ Frame 175/238
+ Frame 176/238
+ Frame 177/238
+ Frame 178/238
+ Frame 179/238
+ Frame 180/238
+ Frame 181/238
+ Frame 182/238
+ Frame 183/238
+ Frame 184/238
+ Frame 185/238
+ Frame 186/238
+ Frame 187/238
+ Frame 188/238
+ Frame 189/238
+ Frame 190/238
+ Frame 191/238
+ Frame 192/238
+ Frame 193/238
+ Frame 194/238
+ Frame 195/238
+ Frame 196/238
+ Frame 197/238
+ Frame 198/238
+ Frame 199/238
+ Frame 200/238
+ Frame 201/238
+ Frame 202/238
+ Frame 203/238
+ Frame 204/238
+ Frame 205/238
+ Frame 206/238
+ Frame 207/238
+ Frame 208/238
+ Frame 209/238
+ Frame 210/238
+ Frame 211/238
+ Frame 212/238
+ Frame 213/238
+ Frame 214/238
+ Frame 215/238
+ Frame 216/238
+ Frame 217/238
+ Frame 218/238
+ Frame 219/238
+ Frame 220/238
+ Frame 221/238
+ Frame 222/238
+ Frame 223/238
+ Frame 224/238
+ Frame 225/238
+ Frame 226/238
+ Frame 227/238
+ Frame 228/238
+ Frame 229/238
+ Frame 230/238
+ Frame 231/238
+ Frame 232/238
+ Frame 233/238
+ Frame 234/238
+ Frame 235/238
+ Frame 236/238
+ Frame 237/238
+ Frame 238/238
+Wrote JSON to curve.json
+Python script executed successfully. Output: curve.json
+Task 27 completed.

@@ -1,0 +1,46 @@
+Loading modules...
+Job ID: 3081734, Array Task ID: 18
+Parameters for Task 18:
+A=3.6e+08, B=1.55e+08, N=0.1, C=0.0001, M=2.5
+Parameters for Task 18:
+C=0.0001
+Creating working directory: run_18
+Substituting parameters into job.inp...
+Current directory: /scratch/knecht/JC_Ensemble/run_18
+Starting Abaqus simulation: job
+Analysis initiated from SIMULIA established products
+Abaqus JOB job
+Abaqus 2023
+Begin Analysis Input File Processor
+Mon 19 May 2025 03:49:22 PM EDT
+Run pre
+Mon 19 May 2025 03:49:24 PM EDT
+End Analysis Input File Processor
+Begin Abaqus/Standard Analysis
+Mon 19 May 2025 03:49:24 PM EDT
+Run standard
+Mon 19 May 2025 03:49:34 PM EDT
+End Abaqus/Standard Analysis
+Begin SIM Wrap-up
+Mon 19 May 2025 03:49:34 PM EDT
+Run SMASimUtility
+Mon 19 May 2025 03:49:34 PM EDT
+End SIM Wrap-up
+Abaqus JOB job COMPLETED
+Running Python script: /scratch/knecht/Johnson_Cook/extract_curves1.py on job.odb
+Processing step: Ramp
+ Frame 1/12
+ Frame 2/12
+ Frame 3/12
+ Frame 4/12
+ Frame 5/12
+ Frame 6/12
+ Frame 7/12
+ Frame 8/12
+ Frame 9/12
+ Frame 10/12
+ Frame 11/12
+ Frame 12/12
+Wrote JSON to curve.json
+Python script executed successfully. Output: curve.json
+Task 18 completed.
