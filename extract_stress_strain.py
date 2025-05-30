@@ -7,7 +7,7 @@ import os, glob, csv
 from odbAccess import openOdb, OdbError
 
 # ─── USER PARAMETERS ───────────────────────────────────────────────────────────
-NUM_RUNS     = 1
+NUM_RUNS     = 32
 RUN_PREFIX   = 'run_'
 ODB_PATTERN  = '*.odb'
 NODESET       = 'SET-1'
