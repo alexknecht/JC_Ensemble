@@ -13156,7 +13156,7 @@ __PickedSurf4_S2, S2
 ** 
 *Material, name="JC Steel"
 *Elastic
- 2.1e+08, 0.3
+ 7e10, 0.3
 *Plastic, hardening=JOHNSON COOK
 A_PARAM, B_PARAM, N_PARAM, M_PARAM,   1793., 298 
 C_PARAM
